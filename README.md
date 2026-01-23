@@ -47,6 +47,6 @@
 </p>
 
 ## 📫 Contact Me
-- 📧 Email: JumanaAhmedCS@outlook.com  
+- 📧 JumanaAhmedCS@outlook.com  
 - 🔗 [LinkedIn](www.linkedin.com/in/jumana-khawaji)  
 - 🔗 [GitHub](https://github.com/iijumanaahmed)
