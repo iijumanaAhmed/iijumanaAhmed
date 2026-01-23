@@ -1,5 +1,3 @@
-# Full-Stack Developer | Software Engineer | UX/UI Designer
-
 ## 💡 About Me
 - 🎓 Computer Science Grad 
 - ✨ Passionate about full-stack development, software engineering, and UX/UI Design.  
