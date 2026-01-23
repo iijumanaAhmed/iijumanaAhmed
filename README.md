@@ -1,4 +1,4 @@
-# Jumana Ahmed Khawaji
+# Full-Stack Developer | Software Engineer | UX/UI Designer
 
 ## 💡 About Me
 - 🎓 Computer Science Grad 
