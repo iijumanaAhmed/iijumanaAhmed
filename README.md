@@ -20,14 +20,6 @@
 </p>
 
 ## 📫 Contact Me
-  <p align="left">
-    <a href="mailto:JumanaAhmedCS@outlook.com" target="_blank">    <img
-    src="https://toppng.com/uploads/preview/outlook-email-logo-png-498179.png"
-    alt="Email Jumana Khawaji"
-    width="40"
-    height="30"
-    style="display: inline-block; vertical-align: middle;"
-  /></a>
-    <a href="https://github.com/iijumanaAhmed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Jumana Khawaji" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/jumana-khawaji-0488382b8" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jumana Khawaji" height="30" width="40" /></a>
-  </p>
+- 📧 Email: JumanaAhmedCS@outlook.com  
+- 🔗 LinkedIn: [Your LinkedIn](www.linkedin.com/in/jumana-khawaji)  
+- 🔗 GitHub: [Your GitHub](https://github.com/iijumanaahmed)
