@@ -1,8 +1,6 @@
 ## 💡 About Me
-- 🎓 Computer Science Grad 
-- ✨ Passionate about full-stack development, software engineering, and UX/UI Design.  
-- 📚 Always learning new technologies and frameworks.  
-- 🔧 Experienced in Python, Web-development tools, JavaScript, Django, React, SQL, PostgreSQL, and more. 
+Computer Science graduate specializing in full-stack development, software engineering, and UX/UI design. Experienced in Python, Java, JavaScript, React, Django, SQL, and modern web & mobile development tools. Passionate about building practical, real-world solutions, creating seamless user experiences, and continuously exploring new technologies to solve meaningful problems.
+
 - 🌐 Check out my portfolio: [iijumanaahmed.github.io/Portfolio](https://iijumanaahmed.github.io/Portfolio/) 
 
 ## 💻 Languages & Tech
